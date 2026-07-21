@@ -205,19 +205,19 @@ nav.main-nav a:hover::after{width:100%;}
 }
 
 .who-card:nth-child(1) {
-    background-image: url("/assets/services1.webp");
+    background-image: url("../assets/services1.webp");
 }
 
 .who-card:nth-child(2) {
-    background-image: url("/assets/services2.webp");
+    background-image: url("../assets/services2.webp");
 }
 
 .who-card:nth-child(3) {
-    background-image: url("/assets/services3.jpg");
+    background-image: url("../assets/services3.jpg");
 }
 
 .who-card:nth-child(4) {
-    background-image: url("/assets/services4.webp");
+    background-image: url("../assets/services4.webp");
 }
 
 .who-overlay .more::after{content:'→';transition:transform .3s ease;}
